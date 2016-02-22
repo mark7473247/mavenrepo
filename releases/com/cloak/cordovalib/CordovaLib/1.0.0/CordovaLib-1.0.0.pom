@@ -5,6 +5,7 @@
   <groupId>com.cloak.cordovalib</groupId>
   <artifactId>CordovaLib</artifactId>
   <version>1.0.0</version>
+  <packaging>aar</packaging>
   <dependencies>
     <dependency>
       <groupId>com.android.support</groupId>
